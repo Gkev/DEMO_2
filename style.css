@@ -1,0 +1,38 @@
+*{
+ margin: 30px;
+ padding: 10px;
+}
+#wrapper{
+ width: 950px;
+ background-color: silver;
+ margin: 0px auto;
+}
+#header{
+ height: 75px;
+ width: 900px;
+ background-color: green;
+}
+#navigation{
+ height: 300px;
+ width: 150px;
+ background-color: blue;
+}
+#main_content{
+ height: 300px;
+ width: 700px;
+ margin-left: 220px;
+ background-color: red;
+}
+.subcontents{
+ height: 120px;
+ width: 130px;
+ margin-top: 10px;
+ display: inline-block;
+ background-color: yellow;
+}
+#advertisement{
+ height: 80px;
+ width: 600px;
+ margin-top: 5px;
+ background-color: purple;
+}
