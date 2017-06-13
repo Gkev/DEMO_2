@@ -3,8 +3,8 @@
  padding: 10px;
 }
 #wrapper{
- width: 950px;
  background-color: silver;
+ display: inline-block;
  margin: 0px auto;
 }
 #header{
@@ -22,6 +22,8 @@
  width: 700px;
  margin-left: 220px;
  background-color: red;
+ position: absolute;
+ bottom: 65px;
 }
 .subcontents{
  height: 120px;
@@ -36,3 +38,4 @@
  margin-top: 5px;
  background-color: purple;
 }
+
